@@ -66,9 +66,9 @@
             target="_blank"
             rel="noopener"
             title="View on github"
-            href="https://github.com/Aicirou/goindex-theme-acrou"
+            href="https://t.me/watchlistonfire"
           >
-            <i class="fab fa-github"></i>
+            <i class="fab fa-telegram"></i>
           </a>
           <header-setting />
           <a
