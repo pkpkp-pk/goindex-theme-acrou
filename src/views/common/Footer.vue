@@ -9,7 +9,7 @@
               href="t.me/watchlistonfire"
             >Telegram - @watchlistonfire</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              pk &nbsp;
               <span class="icon">
                 <i class="fab fa-github"></i>
               </span>
